@@ -1,4 +1,3 @@
-// create your App component here
 // src/App.js
 import React, { useState, useEffect } from "react";
 
